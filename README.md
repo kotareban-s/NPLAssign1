@@ -1,11 +1,11 @@
 External Libraries
 
-nltk
-textblob
-spacy
-numpy
-pandas
-matplotlib
+nltk,
+textblob,
+spacy,
+numpy,
+pandas,
+matplotlib.
 
 Input file:   cantrbry/alice29.txt
 
